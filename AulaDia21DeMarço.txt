@@ -1,0 +1,22 @@
+ESTRUTURA DE DADOS:
+    - físicas - variáveis e seus tipos
+    - abstratas - algoritmos de manipulação + coleções
+      - lista
+        - conjunto de dados
+      - pilha
+      - fila
+      - árvore
+      - grafo
+
+List, Set, Map
+    List<Integer> lista = new ArrayList();
+    Map<String,String> dicionario = new HashMao<>();
+
+Exercícios:
+- receber nomes via teclado, programa tem q receber nome completo, cadastrar nome na lista com email, usando dicionario
+- com arquivos
+
+class Aluno{
+    int matricula;
+    String nome;
+}
