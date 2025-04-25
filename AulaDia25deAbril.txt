@@ -16,8 +16,8 @@ Estrutura de Dados
 	  - filas Queue - classe abstrata -> esqueleto com atributos e métodos.... só que não instancia objetos
 	    - FIFO - Fist In, First Out
 	      - operações clássicas:
-		- inserir no final/cauda -> add, push
-		- remover no inicio/cabeça -> remove, pop
+		- inserir no final/cauda -> enqueue(), add(), offer() 
+		- remover no inicio/cabeça -> dequeue(), remove, pool() 
 	      - operações herdadas:
 		- size
 		- contains
